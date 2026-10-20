@@ -1,0 +1,4 @@
+interface:
+  display_name: "OI 自适应教练"
+  short_description: "从具体问题讲清算法怎样想到，按真实作答调整教学并记录独立能力证据"
+  default_prompt: "使用 $oi-coach，先读我的教材与已有学习记录，确定本次目标，再按我的实际回答开展教学。"
