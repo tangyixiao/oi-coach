@@ -2,10 +2,33 @@
   "repo": "tangyixiao/oi-coach",
   "sourceBranch": "main",
   "sourceCommit": "7f0f62bb6e60f9acf2d45c20cef490edaa5d7a0e",
+  "designVersion": 3,
+  "direction": {
+    "visualConcept": "黑板墨绿、粉笔白与粉橙提示签的算法课堂：首屏是一道“小例子→性质→实现→检验”的展开式讲义，提示层级像可掀纸片，右侧为低角度教具。事实边界：教学 skill，根据真实作答调整帮助；不能用已讲解、提示后完成或旧题 AC 表示掌握，也不编造提分案例。",
+    "layout": "workbench",
+    "palette": {
+      "light": {
+        "bg": "#D8E3CF",
+        "surface": "#F1EDDA",
+        "ink": "#273F2C",
+        "muted": "#566850",
+        "accent": "#3c6c49"
+      },
+      "dark": {
+        "bg": "#15261A",
+        "surface": "#24392A",
+        "ink": "#EEF0DC",
+        "muted": "#a9bea0",
+        "accent": "#b6d59a"
+      }
+    },
+    "threeConcept": "Three.js 制作一块可翻面的墨绿小黑板、层叠提示签和三枚抽象计数块；计数块只用于已解释的小例子，每步和文字对应。镜头静止，用户按步骤才移动。",
+    "distinctiveInteraction": "用户自主展开提示1/提示2/解释，逐步显示页面示例的推导；底部区分独立作答与提示完成两种记录含义，不自动判定访客掌握。"
+  },
   "media": [],
   "skills": [
     "baoyu-design",
     "design-taste-frontend"
   ],
-  "design": "content-first source/product/photography; no rejected template or faux 3D"
+  "flagshipModel": null
 }
