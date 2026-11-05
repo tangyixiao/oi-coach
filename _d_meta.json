@@ -1,0 +1,18 @@
+{
+  "type": "design",
+  "designSystems": [],
+  "primaryDesignSystem": null,
+  "assets": {
+    "OI 自适应教练": {
+      "versions": [
+        {
+          "path": "index.html",
+          "createdAt": "2026-11-05T13:19:45.743Z",
+          "status": "needs-review"
+        }
+      ]
+    }
+  },
+  "createdAt": "2026-11-05T13:19:45.744Z",
+  "updatedAt": "2026-11-05T13:57:07.525Z"
+}
