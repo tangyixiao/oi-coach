@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "description": "An OI, CSP and NOIP teaching skill for working from a small example and a naive solution, requesting a hint, reviewing code or debriefing a contest."
+  },
+  "pages": {
+    "home": {
+      "title": "Start at the step where you got stuck · {project}"
+    },
+    "features": {
+      "title": "Features · {project}",
+      "description": "An OI, CSP and NOIP teaching skill for working from a small example and a naive solution, requesting a hint, reviewing code or debriefing a contest."
+    },
+    "download": {
+      "title": "Get started · {project}",
+      "description": "Place the repository in the Codex skills/oi-coach directory and open a new session."
+    },
+    "community": {
+      "title": "Community · {project}",
+      "description": "Find usage guidance, follow discussions and review changes to this project."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "download": "Get started",
+    "community": "Community"
+  },
+  "ui": {
+    "skip_link": "Skip to main content",
+    "navigation": "Main navigation",
+    "open_navigation": "Open navigation",
+    "close_navigation": "Close navigation",
+    "language": "Choose language",
+    "theme": "Choose theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "platforms": "Supported platforms",
+    "github": "GitHub",
+    "view_image": "View full illustration",
+    "feature_more": "Explore features",
+    "download": "Read the skill",
+    "release_notes": "Source repository",
+    "documentation": "Documentation",
+    "source": "Source repository",
+    "illustration": "First steps",
+    "license": "MIT"
+  },
+  "hero": {
+    "title": [
+      "Start at the step where you got stuck"
+    ],
+    "description": [
+      "An OI, CSP and NOIP teaching skill for working from a small example and a naive solution, requesting a hint, reviewing code or debriefing a contest."
+    ],
+    "primary_action": "Read the skill",
+    "secondary_action": "Explore features"
+  },
+  "preview": {
+    "caption": "First steps",
+    "tabs": [
+      {
+        "label": "Get started",
+        "icon": "book"
+      }
+    ],
+    "items": [
+      {
+        "title": "Install the skill",
+        "description": "Place the repository in the Codex skills/oi-coach directory and open a new session.",
+        "icon": "book"
+      },
+      {
+        "title": "Bring a problem",
+        "description": "Invoke $oi-coach with the statement, constraints and your attempt. Ask for a hint, code review or full explanation.",
+        "icon": "link"
+      }
+    ]
+  },
+  "features": {
+    "title": "Project features",
+    "groups": [
+      {
+        "title": "Graded hints",
+        "description": "Describe the last step you understood and ask for a single hint that builds on your own attempt.",
+        "detail": "",
+        "icon": "layers"
+      },
+      {
+        "title": "Learning records",
+        "description": "Keep explanations, assisted solves, independent implementations and later transfer to a new problem distinct.",
+        "detail": "",
+        "icon": "book"
+      }
+    ]
+  },
+  "getting_started": {
+    "title": "Get started · {project}",
+    "steps": [
+      {
+        "title": "Install the skill",
+        "description": "Place the repository in the Codex skills/oi-coach directory and open a new session.",
+        "icon": "book"
+      },
+      {
+        "title": "Bring a problem",
+        "description": "Invoke $oi-coach with the statement, constraints and your attempt. Ask for a hint, code review or full explanation.",
+        "icon": "link"
+      }
+    ]
+  },
+  "community": {
+    "title": "Community · {project}",
+    "description": "Find usage guidance, follow discussions and review changes to this project.",
+    "links": [
+      {
+        "label": "Help and feedback",
+        "description": "Browse existing reports or describe a reproducible problem.",
+        "icon": "book"
+      },
+      {
+        "label": "Source repository",
+        "description": "Find the project and its maintenance links.",
+        "icon": "link"
+      },
+      {
+        "label": "Review changes",
+        "description": "Review open pull requests or prepare a contribution.",
+        "icon": "code"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "{copyright}"
+  }
+}
