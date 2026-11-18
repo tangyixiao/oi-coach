@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "name": "oi-coach",
+  "theme": "system",
+  "default_locale": "zh-CN",
+  "locales": [
+    {
+      "code": "zh-CN",
+      "label": "简体中文",
+      "directory": ""
+    },
+    {
+      "code": "en",
+      "label": "English",
+      "directory": "en"
+    }
+  ],
+  "release": "oi-coach",
+  "license_label": "MIT",
+  "links": {
+    "repository": "https://github.com/tangyixiao/oi-coach",
+    "download": "https://github.com/tangyixiao/oi-coach/blob/main/SKILL.md",
+    "documentation": "https://tangyixiao.github.io/oi-coach/docs.html",
+    "release": "https://github.com/tangyixiao/oi-coach",
+    "license": "https://github.com/tangyixiao/oi-coach/blob/main/LICENSE",
+    "report_issue": "https://github.com/tangyixiao/oi-coach/issues",
+    "suggest_feature": "https://github.com/tangyixiao/oi-coach",
+    "contribute": "https://github.com/tangyixiao/oi-coach/pulls"
+  },
+  "copyright_notice": "Website template © 2026 Tang Yixiao and contributors",
+  "platforms": [
+    {
+      "name": "oi-coach",
+      "href": "https://tangyixiao.github.io/oi-coach/"
+    }
+  ]
+}
